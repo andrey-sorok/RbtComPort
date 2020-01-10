@@ -1,0 +1,15 @@
+14
+move 50
+rotate 180
+move 50
+rotate -180
+move 20
+rotate -90
+move 20
+rotate -90
+move 30
+rotate -45
+move 10
+rotate -45
+move 10
+move 5
